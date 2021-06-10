@@ -1,0 +1,17 @@
+.home{
+  height:100%
+}
+.banner-wrapper{
+  display:flex;
+  flex-direction:row;
+  flex-wrap :wrap;
+}
+.banner{
+  min-width: 200px;
+  max-width :350px;
+  border: 10px solid black;
+}
+
+@media(max-width:650px){
+  
+}
